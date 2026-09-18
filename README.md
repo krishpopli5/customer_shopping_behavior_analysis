@@ -36,7 +36,6 @@ The analysis covers 10 business questions related to:
 ## Power BI Dashboard
 
 The project includes an interactive Power BI dashboard for exploring customer behavior and key performance indicators.
-customer behavior dashboard.pbix 
 
 ## Dataset
 
