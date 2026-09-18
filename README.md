@@ -36,22 +36,20 @@ The analysis covers 10 business questions related to:
 ## Power BI Dashboard
 
 The project includes an interactive Power BI dashboard for exploring customer behavior and key performance indicators.
-
-![Customer Shopping Behavior Dashboard](dashboard.png)
+customer behavior dashboard.pbix 
 
 ## Dataset
 
 Customer Shopping Behavior dataset sourced from Kaggle.
 
-The raw dataset is not included in this repository.
+The raw dataset is included in this repository.
 
 ## Project Structure
 
-```text
 Customer-Shopping-Behavior/
 │
 ├── README.md
 ├── customer_behavior_analysis.sql
 ├── data_cleaning.ipynb
-├── customer_behavior_dashboard.pbix
-└── dashboard.png
+├── customer behavior dashboard.pbix
+└── dataset.csv
